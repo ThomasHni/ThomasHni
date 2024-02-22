@@ -2,7 +2,7 @@
 
 <br clear="both">
 
-<img align="left" height="246" src="https://i.imgur.com/qE9WERa.gif"  />
+<img align="left" height="250" src="https://i.imgur.com/qE9WERa.gif"  />
 
 <h6 align="left">I'm a 19-year-old student studying BTS SN. As a beginner in the field of coding, I'm focusing on learning C++ and object-oriented programming (OOP). I'm also exploring other technologies such as React, Spring Boot, SQL, and more.<br><br>Currently, I'm deepening my understanding and developing my skills in these areas. I'm always open to learning new technologies and collaborating on interesting projects.<br><br>Feel free to take a look at my projects and reach out for any collaborative opportunities. Thank you!<br><br><br>I'm currently deepening my understanding and developing my skills in these areas. I'm always open to learning new technologies and collaborating on interesting projects.<br><br>Feel free to take a look at my projects and reach out for any collaborative opportunities. Thank you!</h6>
 
