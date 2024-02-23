@@ -7,8 +7,9 @@
 <h6 align="left">I'm a 19-year-old student studying BTS SN. As a beginner in the field of coding, I'm focusing on learning C++ and object-oriented programming (OOP). I'm also exploring other technologies such as React, Spring Boot, SQL, and more.<br><br>Currently, I'm deepening my understanding and developing my skills in these areas. I'm always open to learning new technologies and collaborating on interesting projects.<br><br>Feel free to take a look at my projects and reach out for any collaborative opportunities. Thank you!<br><br><br>I'm currently deepening my understanding and developing my skills in these areas. I'm always open to learning new technologies and collaborating on interesting projects.<br><br>Feel free to take a look at my projects and reach out for any collaborative opportunities. Thank you!</h6>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThomasHni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThomasHni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ 
+  <img src="https://github-readme-stats-thomashnis-projects.vercel.app/api?username=ThomasHni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-thomashnis-projects.vercel.app/api/top-langs?username=ThomasHni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <br clear="both">
