@@ -16,7 +16,7 @@
 
 <img align="right" height="351" src="https://i.imgur.com/4xINenQ.gif"  />
 
-<p align="left">text editor & IDE :</p>
+<h3 align="left">Key Skills:</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
@@ -24,37 +24,16 @@
   <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=qt" height="40" alt="qt logo"  />
-</div>
-
-
-<p align="left">Skills :</p>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bulma/00D1B2" height="40" alt="bulma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
 </div>
 
-<p align="left">Softwares :</p>
+<h3 align="left">Operating Systems and Tools:</h3>
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
 <div align="left">
