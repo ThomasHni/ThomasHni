@@ -18,23 +18,13 @@
 
 <h3 align="left">Key Skills:</h3>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=qt" height="40" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-</div>
+
+![My Skills](https://skillicons.dev/icons?i=cpp,neovim,vscode,qt)
+
 
 <h3 align="left">Operating Systems and Tools:</h3>
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+![My Skills](https://skillicons.dev/icons?i=ubuntu,windows,git,github,bitbucket)
 
 <div align="left">
   <a href="https://fr.linkedin.com/in/thomas-hnizdo-260200209" target="_blank">
