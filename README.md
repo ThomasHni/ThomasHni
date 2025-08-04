@@ -4,7 +4,17 @@
 
 <img align="left" height="250" src="https://i.imgur.com/qE9WERa.gif"  />
 
-<h6 align="left">I'm a 20-year-old student having BTS SN and currently at university in a Bachelor's degree SNDOC. In the field of coding, I'm focusing on mastering C++ and object-oriented programming (OOP) and Web language such as Javascript. I'm also exploring other technologies such as React, Spring Boot, SQL, and more.<br><br>Currently, I'm deepening my understanding and developing my skills in these areas. I'm always open to learning new technologies and collaborating on interesting projects.<br><br>Feel free to take a look at my projects and reach out for any collaborative opportunities. Thank you!<br><br><br>I'm currently deepening my understanding and developing my skills in these areas. I'm always open to learning new technologies and collaborating on interesting projects.<br><br>Feel free to take a look at my projects and reach out for any collaborative opportunities. Thank you!</h6>
+<h6 align="left">
+I'm a 20-year-old graduate holding a BTS SN and a Bachelor's degree in SNDOC.  
+In the field of coding, I focus on mastering C++ and object-oriented programming (OOP), as well as web languages such as JavaScript.  
+I'm also exploring other technologies such as React, Spring Boot, SQL, and more.  
+<br><br>
+I am currently continuing to deepen my understanding and enhance my skills in these areas.  
+I am always eager to learn new technologies and collaborate on exciting projects.  
+<br><br>
+Feel free to check out my projects and reach out for any collaborative opportunities.  
+Thank you!
+</h6>
 
 <div align="center">
  
