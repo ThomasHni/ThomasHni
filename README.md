@@ -14,6 +14,8 @@ I am always eager to learn new technologies and collaborate on exciting projects
 <br><br>
 Feel free to check out my projects and reach out for any collaborative opportunities.  
 Thank you!
+ <br><br>
+ <br><br>
 </h6>
 
 <div align="center">
