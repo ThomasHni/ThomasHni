@@ -5,13 +5,11 @@
 <img align="left" height="250" src="https://i.imgur.com/qE9WERa.gif"  />
 
 <h6 align="left">
-I'm a 20-year-old graduate with a BTS SN and a Bachelor's degree in SNDOC.  
-I'm passionate about coding, focusing on mastering C++ and object-oriented programming (OOP), as well as web languages like JavaScript.  
-I'm also exploring other technologies such as React, Spring Boot, SQL, and more.  
+21-year-old recent graduate with a Bachelor's degree in Digital Systems and Connected Objects Data from the University of Avignon.
+ Passionate about development and IT in general.
+ I am currently seeking a job.
 <br><br>
-Currently, I'm deepening my understanding and skills in these areas and am always eager to learn new technologies and collaborate on exciting projects.  
-<br><br>
-Feel free to check out my projects and reach out for any collaborative opportunities.  
+Feel free to check out my projects and reach out.
 Thank you!
  <br><br>
  <br><br>
